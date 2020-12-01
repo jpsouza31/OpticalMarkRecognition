@@ -1,4 +1,4 @@
-Algoritmo desenvolvido como projeto final da disciplia de processamento digital de imagens pela UTFPR no segundo semestre de 2020.
+Algoritmo desenvolvido na GNU Octave como projeto final da disciplia de processamento digital de imagens pela UTFPR no segundo semestre de 2020.
 
 O sistema de correção de provas deverá ter duas imagens de
 entrada, a primeira sendo o gabarito das provas, e a segunda a prova do aluno. O sistema ficará
