@@ -1,8 +1,16 @@
-InstruÁıes para uso do algoritmo:
+Algoritmo desenvolvido como projeto final da disciplia de processamento digital de imagens pela UTFPR no segundo semestre de 2020.
 
-1 - A pasta OMR contÈm todos os arquivos .m necess·rios para o programa funcionar.
+O sistema de corre√ß√£o de provas dever√° ter duas imagens de
+entrada, a primeira sendo o gabarito das provas, e a segunda a prova do aluno. O sistema ficar√°
+respons√°vel por analisar as imagens, verificar o tipo da prova e ent√£o fazer a corre√ß√£o da
+mesma, atribuindo uma nota com rela√ß√£o ao gabarito.
 
-2 - Inicialmente È preciso que todos esses arquivos estejam na mesma pasta assim como as imagens do gabarito oficial e gabarito do aluno que se desejar utilizar.
+
+Instru√ß√µes para uso do algoritmo:
+
+1 - A pasta OMR cont√©m todos os arquivos .m necess√°rios para o programa funcionar.
+
+2 - Inicialmente √© preciso que todos esses arquivos estejam na mesma pasta assim como as imagens do gabarito oficial e gabarito do aluno que se desejar utilizar.
 
 3 - A imagem do gabarito oficial deve estar com o nome gabarito e no formato jpg.
 
@@ -10,11 +18,11 @@ InstruÁıes para uso do algoritmo:
 
 5 - Para fazer o programa funcionar, basta abrir o arquivo omr.m (se encontra dentro da pasta OMR) no GNU Octave e rodar.
 
-6 - Na pasta ìFotos para testeî ir· encontrar 3 fotos para testas no programa se desejar. Lembrando que para isso È preciso seguir as instruÁıes dos passos 2, 3 e 4.
+6 - Na pasta ‚ÄúFotos para teste‚Äù ir√° encontrar 3 fotos para testas no programa se desejar. Lembrando que para isso √© preciso seguir as instru√ß√µes dos passos 2, 3 e 4.
 
-7 - Um dos arquivos compartilhados È gabarito.pdf que È o gabarito em branco para ser impresso e utilizado no programa.
+7 - Um dos arquivos compartilhados √© gabarito.pdf que √© o gabarito em branco para ser impresso e utilizado no programa.
 
-8 - Para que o sistema funcione corretamente È importante que se tenha uma boa iluminaÁ„o para tirar a fotografia do gabarito e que a folha esteja sobre uma superfÌcie branca. 
+8 - Para que o sistema funcione corretamente √© importante que se tenha uma boa ilumina√ß√£o para tirar a fotografia do gabarito e que a folha esteja sobre uma superf√≠cie branca. 
 
-Obs.: N„o È preciso que a foto fique perfeitamente reta para que o sistema funcione.
+Obs.: N√£o √© preciso que a foto fique perfeitamente reta para que o sistema funcione.
 
